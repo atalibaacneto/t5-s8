@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>COMEXT2_Modelos</id>
+    <version>1.0.0</version>
+    <title>Classes modelos do projeto COMEX</title>
+    <authors>atalibaneto</authors>
+    <description>Projeto que possui Classes modelos do Projeto COMEX.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\alura\t5-s8\ComexT2.Modelos\bin\Debug\net6.0\ComexT2.Modelos.dll" target="lib\net6.0\ComexT2.Modelos.dll" />
+    <file src="D:\alura\t5-s8\ComexT2.Modelos\bin\Debug\net6.0\ComexT2.Modelos.xml" target="lib\net6.0\ComexT2.Modelos.xml" />
+  </files>
+</package>

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ComexT2/1.0.0": {
+        "dependencies": {
+          "COMEXT2_Modelos": "1.0.0",
+          "ComexT2.Modelos": "1.0.0.0"
+        },
+        "runtime": {
+          "ComexT2.dll": {}
+        }
+      },
+      "COMEXT2_Modelos/1.0.0": {
+        "runtime": {
+          "ComexT2.Modelos.dll": {}
+        }
+      },
+      "ComexT2.Modelos/1.0.0.0": {
+        "runtime": {
+          "ComexT2.Modelos.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComexT2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "COMEXT2_Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComexT2.Modelos/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

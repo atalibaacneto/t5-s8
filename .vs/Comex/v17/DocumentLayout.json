@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\alura\\t5-s8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{613138F4-A95D-48E0-BA12-AA6E06CC4B3B}|ComexT2.Tests\\ComexT2.Tests.csproj|d:\\alura\\t5-s8\\comext2.tests\\modelos\\pedidotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613138F4-A95D-48E0-BA12-AA6E06CC4B3B}|ComexT2.Tests\\ComexT2.Tests.csproj|solutionrelative:comext2.tests\\modelos\\pedidotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3844993-1662-4143-B5CF-49907C1F21EB}|ComexT2.Modelos\\ComexT2.Modelos.csproj|d:\\alura\\t5-s8\\comext2.modelos\\modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3844993-1662-4143-B5CF-49907C1F21EB}|ComexT2.Modelos\\ComexT2.Modelos.csproj|solutionrelative:comext2.modelos\\modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613138F4-A95D-48E0-BA12-AA6E06CC4B3B}|ComexT2.Tests\\ComexT2.Tests.csproj|d:\\alura\\t5-s8\\comext2.tests\\comext2.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{613138F4-A95D-48E0-BA12-AA6E06CC4B3B}|ComexT2.Tests\\ComexT2.Tests.csproj|solutionrelative:comext2.tests\\comext2.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9621E7-CCDB-4C8B-82C6-9892EA769988}|Comex\\ComexT2.csproj|d:\\alura\\t5-s8\\comex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9621E7-CCDB-4C8B-82C6-9892EA769988}|Comex\\ComexT2.csproj|solutionrelative:comex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComexT2.Tests",
+              "DocumentMoniker": "D:\\alura\\t5-s8\\ComexT2.Tests\\ComexT2.Tests.csproj",
+              "RelativeDocumentMoniker": "ComexT2.Tests\\ComexT2.Tests.csproj",
+              "ToolTip": "D:\\alura\\t5-s8\\ComexT2.Tests\\ComexT2.Tests.csproj",
+              "RelativeToolTip": "ComexT2.Tests\\ComexT2.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T03:19:28.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoTests.cs",
+              "DocumentMoniker": "D:\\alura\\t5-s8\\ComexT2.Tests\\Modelos\\PedidoTests.cs",
+              "RelativeDocumentMoniker": "ComexT2.Tests\\Modelos\\PedidoTests.cs",
+              "ToolTip": "D:\\alura\\t5-s8\\ComexT2.Tests\\Modelos\\PedidoTests.cs",
+              "RelativeToolTip": "ComexT2.Tests\\Modelos\\PedidoTests.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA+wDcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:17:24.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "D:\\alura\\t5-s8\\ComexT2.Modelos\\Modelos\\Pedido.cs",
+              "RelativeDocumentMoniker": "ComexT2.Modelos\\Modelos\\Pedido.cs",
+              "ToolTip": "D:\\alura\\t5-s8\\ComexT2.Modelos\\Modelos\\Pedido.cs",
+              "RelativeToolTip": "ComexT2.Modelos\\Modelos\\Pedido.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswCYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:44:03.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\alura\\t5-s8\\Comex\\Program.cs",
+              "RelativeDocumentMoniker": "Comex\\Program.cs",
+              "ToolTip": "D:\\alura\\t5-s8\\Comex\\Program.cs",
+              "RelativeToolTip": "Comex\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:45:31.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+D:\alura\t5-s8\ComexT2.Modelos\bin\Debug\net6.0\ComexT2.Modelos.deps.json
+D:\alura\t5-s8\ComexT2.Modelos\bin\Debug\net6.0\ComexT2.Modelos.dll
+D:\alura\t5-s8\ComexT2.Modelos\bin\Debug\net6.0\ComexT2.Modelos.pdb
+D:\alura\t5-s8\ComexT2.Modelos\obj\Debug\net6.0\ComexT2.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\alura\t5-s8\ComexT2.Modelos\obj\Debug\net6.0\ComexT2.Modelos.AssemblyInfoInputs.cache
+D:\alura\t5-s8\ComexT2.Modelos\obj\Debug\net6.0\ComexT2.Modelos.AssemblyInfo.cs
+D:\alura\t5-s8\ComexT2.Modelos\obj\Debug\net6.0\ComexT2.Modelos.csproj.CoreCompileInputs.cache
+D:\alura\t5-s8\ComexT2.Modelos\obj\Debug\net6.0\ComexT2.Modelos.dll
+D:\alura\t5-s8\ComexT2.Modelos\obj\Debug\net6.0\refint\ComexT2.Modelos.dll
+D:\alura\t5-s8\ComexT2.Modelos\obj\Debug\net6.0\ComexT2.Modelos.pdb
+D:\alura\t5-s8\ComexT2.Modelos\obj\Debug\net6.0\ref\ComexT2.Modelos.dll
+D:\alura\t5-s8\ComexT2.Modelos\bin\Debug\net6.0\ComexT2.Modelos.xml
+D:\alura\t5-s8\ComexT2.Modelos\obj\Debug\net6.0\ComexT2.Modelos.xml

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ComexT2.Modelos</name>
+    </assembly>
+    <members>
+        <member name="T:ComexT2.Modelos.Pedido">
+            <summary>
+            Representa um pedido realizado por um cliente
+            </summary>
+        </member>
+        <member name="M:ComexT2.Modelos.Pedido.#ctor(ComexT2.Modelos.Cliente)">
+            <summary>
+            Inicializa uma nova instância da classe Pedido.
+            </summary>
+            <param name="cliente">O cliente que realizou o pedido</param>
+        </member>
+        <member name="P:ComexT2.Modelos.Pedido.Cliente">
+            <summary>
+            Obtem o cliente que realizou o pedido.
+            </summary>
+        </member>
+        <member name="M:ComexT2.Modelos.Pedido.AddItem(ComexT2.Modelos.ItemPedido)">
+            <summary>
+            Add um item ao pedido e atualiza o valor total.
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:ComexT2.Modelos.Pedido.ToString">
+            <summary>
+            Retorna uma string que representa o pedido atual.
+            </summary>
+            <returns>Uma string do pedido atual</returns>
+        </member>
+    </members>
+</doc>
